@@ -55,7 +55,7 @@ As a reminder, here's how to target a paragraph element and align it to the righ
 
 Example Code
 
-````
+```p
 p {
   text-align: right;
 }
@@ -81,7 +81,7 @@ As a reminder, here's how to target the class freecodecamp:
 
 Example Code
 
-````
+```free
 .freecodecamp {
   
 }
@@ -99,7 +99,7 @@ As a reminder, here's how to target the class freecodecamp:
 
 Example Code
 
-````
+```free
 .freecodecamp {
   
 }
@@ -143,7 +143,7 @@ To give the markers different colors, you will need to add a unique class to eac
 
 Example Code
 
-````
+```div
 <div class="animal dog">
 ```
 
